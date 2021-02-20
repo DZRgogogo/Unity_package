@@ -1,2 +1,3 @@
 FrameWork_New			增加了背包若放入10w等大容量优化模块
 FrameWork_New_1 			增加了摇杆模块
+FrameWork_New3 				增加了PlayerPrefs通用模块、可存放自定义类
